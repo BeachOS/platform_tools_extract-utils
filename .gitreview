@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/platform_tools_extract-utils
+defaultbranch=android13
